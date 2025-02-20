@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arpitakadtane@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1263QUytTnMr_JGgoCKrS1beGQUpSZ4vQ/view](https://drive.google.com/file/d/1263QUytTnMr_JGgoCKrS1beGQUpSZ4vQ/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1263QUytTnMr_JGgoCKrS1beGQUpSZ4vQ/view](https://drive.google.com/file/d/1263QUytTnMr_JGgoCKrS1beGQUpSZ4vQ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
