@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arpitakadtane@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E0sqE4Z_tDG9SHnK9xa6psSwiPEf-Wbi/view?usp=drive_link]
+- 📄 Know about my experiences https://drive.google.com/file/d/1E0sqE4Z_tDG9SHnK9xa6psSwiPEf-Wbi/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arpitakadtane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitakadtane" height="30" width="40" /></a>
