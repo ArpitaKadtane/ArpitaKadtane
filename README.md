@@ -13,7 +13,7 @@
 ✉️ [arpitakadtane@gmail.com](mailto:arpitakadtane@gmail.com)
 
 📄 Resume:
-🔗 https://drive.google.com/file/d/1E0sqE4Z_tDG9SHnK9xa6psSwiPEf-Wbi/view?usp=drive_link
+🔗 https://drive.google.com/drive/u/0/folders/1PoRf67JcY5RsDUNVsONtILaSAncMTUqH
 
 ---
 
