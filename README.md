@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arpita Kadtane
+# Hi I'm Arpita Kadtane
 
 ### Aspiring Data Analyst | Power BI Developer | SQL & Data Visualization Enthusiast
 
