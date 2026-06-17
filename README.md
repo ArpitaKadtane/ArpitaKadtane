@@ -65,7 +65,7 @@ A full-stack platform connecting students, institutes, universities, and compani
 
 ---
 
-### 📚 [Skill Hive Learning Nexus – Transforming Skills into Mastery]
+### 📚 Skill Hive Learning Nexus – Transforming Skills into Mastery
 > Angular · Mock JSON Server · GitHub
 
 An e-learning platform with a focus on skill development and mastery.
@@ -75,7 +75,7 @@ An e-learning platform with a focus on skill development and mastery.
 
 ---
 
-### 💸 [Mahila Bachatgat – Empowering Women through Digital Finance]
+### 💸 Mahila Bachatgat – Empowering Women through Digital Finance
 > React Native · Firebase · UPI Gateway · Node.js · Ngrok
 
 A Digital Self-Help Group platform empowering women to collaborate, save, and manage money.
@@ -108,8 +108,8 @@ A Digital Self-Help Group platform empowering women to collaborate, save, and ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitaKadtane&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaKadtane&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
