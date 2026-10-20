@@ -1,6 +1,6 @@
 # Hi there, I'm Arpita Kadtane 👋
 
-**Software Developer** · B.Tech CSE (Honors in AIML) Graduate · CGPA 9.37
+**Software Engineer & Aspiring Product Analyst** · B.Tech CSE (Honors in AIML) Graduate · CGPA 9.37
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-red-86.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitakadtane@gmail.com)
@@ -58,7 +58,44 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 [CCS Live – Centralized Student & Career Platform](https://ccsapp.aswebworks.com/)
+### 📊 Analytics, Data & Product Projects
+
+#### 🤖 [SkillPath AI – Smart Roadmap Generator](https://skillpathroadmapgenerator.vercel.app/)
+> **Stack:** React · Node.js · Groq API · LLM Orchestration · Prisma ORM · PostgreSQL
+
+- Created an artificial intelligence-driven roadmap engine that crafts personalized step-by-step educational paths customized to specific careers.
+- Factored user targets, baseline experiences, and timeline constraints through prompt engineering and direct LLM calls.
+
+---
+
+#### 💳 Credit Card Transaction & Customer Analytics Dashboard
+> **Stack:** Power BI · PostgreSQL · DAX · Data Modeling
+
+- Built an interactive Power BI dashboard analyzing credit card transactions, revenue, customer segments, and regional performance.
+- Created KPI metrics and week-over-week (WoW) trend analysis using DAX to monitor business performance.
+- Analyzed customer spending patterns across income groups, occupations, and satisfaction levels.
+
+---
+
+#### 💰 Financial Performance Analytics Report
+> **Stack:** Power BI · DAX · Financial Data Modeling
+
+- Developed a financial analytics dashboard tracking revenue, expenses, gross sales, profit, and discount performance across countries and business segments.
+- Built interactive KPI cards and trend reports to evaluate profitability, units sold, and monthly and quarterly performance.
+
+---
+
+#### 📱 Mobile Sales Analysis Dashboard
+> **Stack:** Power BI · DAX · Data Modeling · Filters & Slicers
+
+- Developed an interactive dashboard analyzing mobile sales performance across brands, models, and regions.
+- Created KPI metrics for total revenue, quantity sold, and monthly sales trends using DAX.
+
+---
+
+### 💻 Full-Stack & Software Engineering Projects
+
+#### 🎓 [CCS Live – Centralized Student & Career Platform](https://ccsapp.aswebworks.com/)
 > **Stack:** ReactJS · Node.js · Express.js · PostgreSQL · Vercel · Render · Supabase
 
 - Engineered a complete ecosystem connecting students, academic institutes, and corporate partners for jobs, training workflows, and crowdfunding events.
@@ -67,15 +104,7 @@
 
 ---
 
-### 🤖 [SkillPath AI – Smart Roadmap Generator](https://skillpathroadmapgenerator.vercel.app/)
-> **Stack:** React · Node.js · Groq API · LLM Orchestration · Prisma ORM
-
-- Created an artificial intelligence-driven roadmap engine that crafts personalized step-by-step educational paths customized to specific careers.
-- Factored user targets, baseline experiences, and timeline constraints through prompt engineering and direct LLM calls.
-
----
-
-### 💸 [Smart Expense Tracker – Financial Management Suite](https://expense-tracker-lilac-chi-34.vercel.app/)
+#### 💸 [Smart Expense Tracker – Financial Management Suite](https://expense-tracker-lilac-chi-34.vercel.app/)
 > **Stack:** Java · Spring Boot · React · REST API · JUnit · Maven
 
 - Built a secure financial dashboard application driving data aggregation, instant categorization, and customizable date range query sorting.
@@ -83,7 +112,7 @@
 
 ---
 
-### 📚 [Skill Hive Learning Nexus – E-Learning Delivery](https://github.com/ArpitaKadtane/Skill-Hive-Learning-Nexus---Transforming-Skills-into-Mastery)
+#### 📚 [Skill Hive Learning Nexus – E-Learning Delivery](https://github.com/ArpitaKadtane/Skill-Hive-Learning-Nexus---Transforming-Skills-into-Mastery)
 > **Stack:** Angular · Mock JSON Server · SDLC Frameworks
 
 - Crafted highly responsive candidate-facing interfaces ensuring fluid cross-device execution.
@@ -91,7 +120,7 @@
 
 ---
 
-### 📱 [Mahila Bachatgat – Financial Empowerment Hub](https://github.com/ArpitaKadtane/MahilaBachatgat)
+#### 📱 [Mahila Bachatgat – Financial Empowerment Hub](https://github.com/ArpitaKadtane/MahilaBachatgat)
 > **Stack:** React Native · Firebase · UPI Integration · Node.js
 
 - Launched a localized mobile application architecture helping women self-help organizations coordinate microfinance workflows seamlessly.
@@ -139,4 +168,3 @@
 </p>
 
 ---
-
